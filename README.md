@@ -206,4 +206,4 @@ Ant Movie Catalog is available as a full free version, offering all features and
 Start organizing your film collection today with Ant Movie Catalog! Download now and unlock the full potential of your movie library.
 
 ---
-**Last updated:** 2026-10-15 21:09:15 UTC
+**Last updated:** 2026-10-16 00:02:38 UTC
